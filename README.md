@@ -103,7 +103,7 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
     <td width="100%" colspan="2">
       <h3 align="center">Gestor de Inventario - Centro de Acopio</h3>
       <div align="center">
-        <a href="https://github.com/mauri-17tr/Gestor-Centro-de-Acopio" target="_blank">
+        <a href="https://github.com/mauri-17tr/CentroAcopioEventos" target="_blank">
           <img src="https://img.shields.io/badge/VER_C%C3%93DIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código">
         </a>
         <p>📦 Sistema para registrar, clasificar y gestionar artículos donados (alimentos, ropa, medicinas). Incluye control de stock por categoría y alertas cuando el inventario baja.</p>

@@ -98,10 +98,9 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 
 </br>
 <h2>🚀 Proyectos Destacados</h2>
-<table>
-    <table width="100%">
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="100%" colspan="2">
       <h3 align="center">Gestor de Inventario - Centro de Acopio</h3>
       <div align="center">
         <a href="https://github.com/mauri-17tr/Gestor-Centro-de-Acopio" target="_blank">
@@ -111,57 +110,47 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sistema Universitario</h3>
+      <div align="center">
+        <a href="https://github.com/mauri-17tr/Sistema-Universitario" target="_blank">
+          <img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código">
+        </a>
+        <p>📚 Sistema completo de gestión universitaria con control de estudiantes, materias y calificaciones.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Tienda Online</h3>
+      <div align="center">
+        <a href="https://github.com/mauri-17tr/Tienda-online" target="_blank">
+          <img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código">
+        </a>
+        <p>🛒 Plataforma de comercio electrónico con carrito de compras y gestión de productos.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sudoku</h3>
+      <div align="center">
+        <a href="https://github.com/mauri-17tr/Sudoku" target="_blank">
+          <img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código">
+        </a>
+        <p>🎮 Juego de Sudoku interactivo con diferentes niveles de dificultad y sistema de puntuación.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Organizador de Tareas</h3>
+      <div align="center">
+        <a href="https://github.com/mauri-17tr/Organizador-de-tareas" target="_blank">
+          <img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código">
+        </a>
+        <p>✅ Aplicación para gestionar y organizar tareas con prioridades.</p>
+      </div>
+    </td>
+  </tr>
 </table>
-<tr>
-<td width="50%">
-<h3 align="center">Sistema Universitario</h3>
-<div align="center">
-<a href="https://github.com/mauri-17tr/Sistema-Universitario" target="_blank">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>📚 Sistema completo de gestión universitaria con control de estudiantes, materias y calificaciones.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Tienda Online</h3>
-<div align="center">
-<a href="https://github.com/mauri-17tr/Tienda-online" target="_blank">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>🛒 Plataforma de comercio electrónico con carrito de compras y gestión de productos.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Sudoku</h3>
-<div align="center">
-<a href="https://github.com/mauri-17tr/Sudoku" target="_blank">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>🎮 Juego de Sudoku interactivo con diferentes niveles de dificultad y sistema de puntuación.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Organizador de Tareas</h3>
-<div align="center">
-<a href="https://github.com/mauri-17tr/Organizador-de-tareas" target="_blank">
-<img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<p>✅ Aplicación para gestionar y organizar tareas con prioridades.</p>
-</div>
-</td>
-</tr>
-</table>
-
-## 📄 Curriculum Vitae
-
-<div align="center">
-<a href="https://github.com/mauri-17tr/mauri-17tri/blob/main/Curriculum%20Vitae.pdf" target="_blank">
-<img src="https://img.shields.io/badge/Descargar_CV-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV">
-</a>
-<p>📥 Descarga mi CV completo para conocer más sobre mi experiencia y formación</p>
-</div>
 
 ## 📫 Conecta conmigo
 

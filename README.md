@@ -22,7 +22,8 @@ Soy <strong>Mauricio Recinos</strong>, un apasionado desarrollador web full stac
 <h3 align="center">Universidad Francisco Gavidia</h3>
 <div align="center">
 <p>
-📖 <strong>Ingeniería en Ciencias de la Computación</strong><br>
+📖 <strong>Ingeniería en Desarrollo de Software
+</strong><br>
 🎯 Actualmente cursando 4to ciclo<br>
 📅 En curso
 </p>
